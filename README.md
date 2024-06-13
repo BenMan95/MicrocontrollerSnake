@@ -6,3 +6,6 @@
   - AQM0802A-RN-GBW LCD Display
   - Adafruit 8x8 LED Matrix Display
   - Sparkfun Joystick
+
+## Demo Video
+https://github.com/BenMan95/MicrocontrollerSnake/assets/81588289/80eadf16-af52-4527-afe2-ca54d54adf74
